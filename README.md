@@ -16,7 +16,7 @@ This repo contains a [Fontforge python script](ligaturize.py) that you can use t
 
 Pre-ligaturized fonts are available under [releases](https://github.com/ToxicFrog/Ligaturizer/releases).
 
-Here's a couple examples of Source Code Pro Ligaturized (note the `!=` and `->`):
+Here's a an example of Source Code Pro Ligaturized (note the `!=` and `->`):
 ![Source Code Pro Ligaturized](images/source_code_pro.png)
 
 ## Requirements
