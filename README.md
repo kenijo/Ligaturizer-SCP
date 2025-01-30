@@ -14,7 +14,7 @@ Note: Newer FirCode versions would require a heavy rework of the scripts and are
 
 This repo contains a [Fontforge python script](ligaturize.py) that you can use to add the Fira Code ligatures to any font, as well as submodules for some popular coding fonts and [another script](build.py) for ligaturizing all of them at once.
 
-Pre-ligaturized fonts are available under [releases](https://github.com/ToxicFrog/Ligaturizer/releases).
+Pre-ligaturized fonts are available under [releases](https://github.com/kenijo/Ligaturizer/releases).
 
 Here's a an example of Source Code Pro Ligaturized (note the `!=` and `->`):
 ![Source Code Pro Ligaturized](images/source_code_pro.png)
