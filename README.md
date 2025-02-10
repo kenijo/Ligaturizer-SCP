@@ -1,6 +1,8 @@
 > **_NOTE:_**
-> 
+>
 > This fork reorganizes the internal structure of the font folder for easier reading and provides a ligaturized version of [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
+>
+> The following ligatures were commented from **igatures.py** because they can mess with syntax highlighting in some code editors: **<\$**, **$>**, **</**, **/>**, **www**
 
 # Ligaturizer
 
